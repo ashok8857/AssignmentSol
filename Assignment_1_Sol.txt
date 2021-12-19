@@ -1,0 +1,44 @@
+Q1Sol. 
+==>values:'hello&',-87.8,6
+==>expression : *,-,/,+
+
+Q2Sol.
+==>String =It is datatye which holds array of character or strint e.g -'India'
+==> Variable = variable is cantainer which holds value e.g name ='Ram' in this case name is variable.
+Q3Sol. 
+==>Three datatype in python 
+==>String= String datatye hold string or you can say array of character it is imutable datatye.
+==>Float =It holds the floating point value eg. 2.4,4.5 etc.
+==>int. it holds the integer value  eg. 1,2,3,4,etc
+
+Q4Sol.
+==>Expression is the combination of value and function .It always evaluate values to single value e.g
+==>a=4,b=5
+==>sum=a+b
+
+Q5Sol.
+==> Expression is the combination of value and function e.get
+==>a=4,b=5
+==>sum=a+b
+==Statement : Instruction that execute by intepreter e.g .a=4 ,spam =10
+
+Q6Sol.
+==>23
+
+Q7Sol.
+==>spamspamspam
+==>spamspamspam
+
+Q8Sol. 
+==>eggs are valid name but 100 is not valid because in python there is set of rule to define a varible. 
+
+Q9Sol.
+==>Three function given bellow
+==>To get the integer value int(input('Please enter value'))
+==>To get the float value float(input('Please enter value'))
+==>To get the float value input('Please enter value')
+
+Q10Sol. 
+==>It shows TypeError: can only concatenate str (not "int") to str
+==>We can fix this error by doing type casting eg. print('I have eaten' + str(99) + 'burritos.')
+==
