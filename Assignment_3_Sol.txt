@@ -1,0 +1,35 @@
+Q1. Function are used in programing for code reusabilty  after definging a function we can call that fuction to do same thing again.
+
+Q2. Code in the function run when you call the function
+    e.g  def greeting():   #Defination
+	         print("Hello how are you")
+			 
+		greeting()	 #function Call
+
+Q3. The "def" keyword statement  are used to define function.
+
+Q4. def greeting():   #Defination of function 
+	         print("Hello how are you")
+			 
+		greeting()	 #function Call		
+
+Q5.In python program there is One Global scope and One local scope
+
+Q6 The local variable get destroyed after function return.
+
+Q7.Return value of return the type so that we can use it further .
+
+Q8.If function does not have return statement then fuction return None type.
+
+Q9.By writing global keyword we can assign global scope to variable.
+
+Q10.Data type of none is NoneType.
+Q11. Question are not understandable.
+Q12 import spam
+    spam.bacon()
+
+Q13 With the help of try catch statement we can prevent frogram fro crashing.
+
+Q14. Try block are used to identify or check the error and except block are handle that error execute onle in error arrise.	
+	
+   		
