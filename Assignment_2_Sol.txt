@@ -1,0 +1,44 @@
+Q1Ans: There are Two value for boolean True,False
+
+Q2:Three boolean operator
+   1.and
+   2.or
+   3.Not
+
+Q3. True and True  True
+    True and False=False
+	True or True  True
+    False or True =True
+	False not     =True
+	
+Q4.	(5 > 4) and (3 == 5)                :False
+     not (5 > 4)                        :False
+    (5 > 4) or (3 == 5)                 :True
+    not ((5 > 4) or (3 == 5))           :True
+    (True and True) and (True == False) :False
+    (not False) or (not True)           :True
+
+Q5  Six comparison operators are :>,<,==,!=,>=,<=,
+
+Q6  a=5 # '='Used For variable assigment
+    b=5
+	print(a==b) # '==' Used for comparison
+	
+Q7  spam = 0
+    if spam == 10:      #1st block
+        print('eggs')
+    if spam > 5:        #2nd block
+        print('bacon')
+    else:               #3rd block
+        print('ham')
+        print('spam')
+        print('spam')
+	
+Q8  for spam in range(5):
+    
+        if spam == 1:      
+            print('Hello ')
+        if spam == 2:        
+            print('Howdy ')
+        else:               
+            print('Greetings!') 	
