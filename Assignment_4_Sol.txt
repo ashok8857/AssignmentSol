@@ -1,0 +1,56 @@
+Q1. [] this symbole are to create a list in python 
+
+Q2. spam=  [2, 4, 6, 8, 10]
+    spam[2]='hello' 
+	l= ['a', 'b', 'c', 'd']
+	for i in l:
+	    spam.append(i)
+		
+	
+Q3.	'd'
+
+Q4. The  spam[-1] = d
+
+Q5.spam[:2]=['a', 'b']
+
+Q6. bacon = [3.14, 'cat', 11, 'cat,', True]
+    bacon.index('cat')=1
+
+Q7. [3.14, 'cat', 11, 'cat,', True, 99]
+
+Q8. bacon.remove('cat')
+   [3.14, 11, 'cat,', True, 99] 
+
+Q9 list concatination   spam+ bacon =[2, 4, 'hello', 8, 10, 'a', 'b', 'c', 'd', 3.14, 11, 'cat,', True, 99]
+   list rpelication :spam *2 =[2, 4, 'hello', 8, 10, 'a', 'b', 'c', 'd', 2, 4, 'hello', 8, 10, 'a', 'b', 'c', 'd']
+   
+Q10.The append() method add or append element at last.
+    bacon.insert(1,'dog') (you add the element in sepecified index) 
+
+Q11.Methods for removing items in list are remove() and pop()
+
+Q12. List and string both array data structure  .
+
+Q13. The difference between tuples and lists is tuples is immutable but list is mutable.
+
+Q14. t=(42,)	
+
+Q15 lets l=[1,2,3,4,5]
+    t=tuple(l) #convert list to tupple
+	l2=list(t) #convert tupple to list
+
+Q16. Variable contains reference .
+
+Q17. This senerio works in the nasted list 
+    In shalow copy() it will point in same memory location but copy.deepcopy() it crate other copy and it point to that memory location.
+ 	l=[[1,2,3],[4,5,6]]
+	l2=copy.deepcopy(l)
+	l2[0][1]=100
+	print(l2) #[[1, 100, 3], [4, 5, 6]]
+	print(l1) #[[1, 2, 3], [4, 5, 6]]
+	l=[[1,2,3],[4,5,6]]
+	print(l4) #[[1, 2, 400], [4, 5, 6]]
+	print(l) #[[1, 2, 400], [4, 5, 6]]
+  	
+         
+

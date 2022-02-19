@@ -1,0 +1,36 @@
+Q1.Escape characters "\n","\t" ,"\\" etc,
+   print('Hi im "\n" Ashok Thakur')
+   print('Hi im "\n" Ashok"\t"Thakur')
+   print('"\\" Hi how are you')
+
+Q2. Escape characters "\n" for new line and "\t" for Tab
+    eg.print('Hi im "\n" Ashok Thakur')
+	   print('Hi im "\n" Ashok"\t"Thakur') 
+	   
+Q3. print('"\\" Hi how are you')
+
+Q4.Becuse we can use ' single quote in double quote.
+
+Q5.By using print(''' Hi my name is ashok, Hello.
+                          How are you.
+						  ''')
+
+Q6.'e'
+   'Hello'
+   'Hello'
+   'lo, world!'
+   
+Q7.'HELLO'
+    True
+    'hello'
+
+Q8.['Remember,', 'remember,', 'the', 'fifth', 'of', 'July.']
+   'There-can-only-one.'	
+   
+Q9. s="Hi my name is ashok"
+    print(s.ljust(40,'-'))
+    print(s.center(40,'-'))
+	print(s.rjust(40,'-'))
+   
+   
+Q10. print("  ashok    ".strip())  

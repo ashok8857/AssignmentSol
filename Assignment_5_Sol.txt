@@ -1,0 +1,27 @@
+Q1 d={}
+
+Q2.The value for key foo is 42
+
+Q3. List is Ordered and mutable data structure where dictionanry is unordered collection.
+
+Q4 . Key error occour.
+
+Q5 Could not get the question but 
+   spam={'animal':'cat'}
+   spam.keys()
+   dict_keys(['animal'])
+   
+Q6.Could not get the question but
+   spam={'animal':'cat'}
+   spam.values()
+   dict_values(['cat'])
+   
+Q7.spam.get('color') 
+
+Q8.we can create a module like dict.py and then define function
+
+   def show():
+       d={'Alex':20,'Ram':30,'Shayam':24}
+	   for key,value in d.items():
+	        print(key,':',value) 
+	    
